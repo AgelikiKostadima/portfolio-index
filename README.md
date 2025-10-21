@@ -9,10 +9,13 @@ The following contains a list of my private repositories.
 > Reengineering and extending the legacy code in a Java application of a Latex editor that facilitates the usage of Latex commands for the preparation of Latex documents with multi-strategy version tracking functionalities that enable undo and redo actions. 
 
 # AdvancedText2SpeechApp 
-> *Java* 
+> *Java*  
+> Application that allows to edit and transform documents of various formats to audio, consists of a graphical user interface, a back-end that enables the text editing process and the part that transforms text to speech, which is based on external text to speech libraries.
 
-# Computational-Intelligence 
-> *Java* 
+
+# Computational-Intelligence-Project
+> *Java*
+> Constraction of data sets, sorting programs based on the multylayer perceptron and a clustering program based on the k-means algorithm.
 
 # Computer-Vision  
 > *Jupyter Notebook* 
