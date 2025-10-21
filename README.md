@@ -5,23 +5,23 @@ The following contains a list of my private repositories.
 ---
 
 # LatexEditor 
-> Java 
+> *Java* 
 
 # AdvancedText2SpeechApp 
-> Java 
+> *Java* 
 
 # Computational-Intelligence 
-> Java 
+> *Java* 
 
 # Computer-Vision  
-> Jupyter Notebook 
+> *Jupyter Notebook* 
 
 # Digital-Image-Processing 
-> MATLAB
+> *MATLAB*
 > Algorithms to manipulate, analyze, and extract information from digital images, techniques for enhancing image quality, such as contrast enhancement and noise reduction.
 
 # Management-of-Complex-Data-Types 
-> Python
+> *Python*
 > Management and analysis of data types which are not simple scalars.
 
 ---
